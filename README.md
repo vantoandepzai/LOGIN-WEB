@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đăng nhập</title>
 </head>
-<body>
-    <style>
-        body {
-            text-align: center;            
-        }
-    </style>
     <h1>Login</h1>
     Email:<br>
     <input type="text" name="Email"><br>
