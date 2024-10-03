@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
     <h1>Login</h1>
     Email:<br>
     <input type="text" name="Email"><br>
@@ -15,6 +9,3 @@
     <center><button class="codepro-custom-btn codepro-btn-5" target="blank" title="Code Pro" onclick="window.open('https://www.code.pro.vn/')"><span>Login</span></button></center>
     <h2>Nếu chưa có tài khoản vui lòng click vào đây!</h2>
     <center><button class="codepro-custom-btn codepro-btn-5" target="blank" title="Code Pro" onclick="window.open('https://www.code.pro.vn/')"><span>SignUp</span></button></center>
-</body>
-</body>
-</html>
